@@ -2,6 +2,14 @@ h1 {
   color: #5787A7; 
 }
 
+header{
+  display: flex; 
+  align-itmes: center;
+}
+
+header h1{
+  margin-right: auto; 
+}
 .container {
     width: 100%; /* Set the container width to fill the viewport */
     max-width: 1200px; /* Set a maximum width to avoid stretching on larger screens */
