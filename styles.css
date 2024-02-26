@@ -24,7 +24,7 @@ nav ul {
 
 nav ul li {
     display: inline-block; /* Display list items horizontally */
-    margin-right: 20px; /* Add spacing between list items */
+    margin-right: 30px; /* Add spacing between list items */
 }
 
 nav ul li a {
