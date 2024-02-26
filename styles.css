@@ -29,7 +29,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none; /* Remove underlines */
-    color: black; /* Set link color */
+    color: #5787A7; /* Set link color */
 }
 
 nav ul li a:hover {
