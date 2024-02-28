@@ -1,5 +1,5 @@
 h1 {
-  color: #5787A7; 
+  color: black; 
 }
 
 header{
@@ -28,10 +28,10 @@ nav ul li {
 }
 
 nav ul li a {
-    text-decoration: none; /* Remove underlines */
-    color: #5787A7; /* Set link color */
+    text-decoration: underline; /* Remove underlines */
+    color: #black; /* Set link color */
 }
 
 nav ul li a:hover {
-    color: black; /* Change link color on hover */
+    color:  #5787A7; /* Change link color on hover */
 }
