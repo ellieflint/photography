@@ -26,17 +26,18 @@ nav ul {
     list-style-type: none; /* Remove bullet points */
     padding: 0; /* Remove default padding */
     margin: 0; /* Remove default margin */
+   
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 26px;
+  
 }
 
 nav ul li {
     display: inline-block; /* Display list items horizontally */
     margin-right: 50px; /* Add spacing between list items */
-
-    .pt-serif-regular {
-    font-family: "PT Serif", serif;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 5px;
+  
 }
 }
 
